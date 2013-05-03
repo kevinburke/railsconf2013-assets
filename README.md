@@ -1,6 +1,54 @@
-Presentation Slides
+RailsConf 2013 Talks
 ====================
+  - Day 1 Keynote - @dhh
+Video: http://www.justin.tv/confreaks/b/397313542 starts at 1:23:15
+  - How Shopify Scales Rails - @johnduff
+slides: http://www.slideshare.net/jduff/how-shopify-scales-rails-20443485
+  - Maintainable Templates - @bloudermilk
+slides: https://github.com/bloudermilk/maintainable_templates/blob/master/slides.md
+  - Simple and Elegant Rails Code with Functional Style - Attila Domokos
+slides: http://adomokos.github.io/simple_and_beautiful_rails_preso/
+  - Object-Oriented Lessons for a Service-Oriented World - @amateurhuman
+slides: https://speakerdeck.com/amateurhuman/object-oriented-lessons-for-a-service-oriented-world
+  - Real-Time Rails - @bcardarella
+slides: http://www.rvl.io/bcardarella/real-time-rails/
+  - You've got a Sinatra on your Rails - José Valim - @josevalim
+Slides: https://t.co/HxRibal4pN
+  - Day 2 Keynote - @wycats
+video: http://www.justin.tv/confreaks/b/397737353 starts at 7:40
+  - Rails vs. The Client - @noelrap
+video: http://www.justin.tv/confreaks/b/397758162 starts at 32:00
+  - The Magic Tricks of Testing - @sandimetz
+video: http://www.justin.tv/confreaks/b/397758162 starts at 1:17:25
+  - From Rails to the web server to the browser - @dabit
+video: http://www.justin.tv/confreaks/b/397820990 starts at 04:34
+  - An Intervention for ActiveRecord - @erniemiller
+video: http://www.justin.tv/confreaks/b/397820990 starts at 53:00
+  - Data Storage: NoSQL Toasters and a Cloud of Kitchen Sinks - Casey Rosenthal
+video: http://www.justin.tv/confreaks/b/397855172 starts at 28:25
+  - Pry — The Good Parts! - Conrad Irwin
+video: http://www.justin.tv/confreaks/b/397855172 starts at 1:17:05
+  - Day 3 Keynote - James Duncan Davidson
+Video: http://www.justin.tv/confreaks/b/398136180 starts at 1:12:40
+  - Using Elasticsearch with Rails Apps - Brian Gugliemetti
+Video (no audio): http://www.justin.tv/confreaks/b/398180086 starts at 28:20
+  - Creating Mountable Engines - @peakpg
+Video: http://www.justin.tv/confreaks/b/398180086 starts at 1:18:39
+  - DevOps for the Rubyist Soul - @jtdowney
+Video: http://www.justin.tv/confreaks/b/398180086 starts at 2:58:34
+  - Keeping the lights on: Application monitoring with Sensu and BatsD - @obrie
+Video: http://www.justin.tv/confreaks/b/398180086 starts at 3:48:30
+  - Datomic, from Ruby, from Rails - @yokolet 
+Notes: https://gist.github.com/naoyamakino/5504109
+  - How to Talk to Developers - @r00k
+Video: http://www.justin.tv/confreaks/b/398564232 starts at 11:55
+  - Dissecting Ruby with Ruby - @schneems
+Video: http://www.justin.tv/confreaks/b/398564232 starts at 1:07:25
+  - Day 4 Keynote - @tenderlove
+Video: http://www.justin.tv/confreaks/b/398641370 starts at 1:18:36
 
+Complete Slide Listing
+====================
   - [Testing HTTP APIs in Ruby - Slides](https://github.com/shaiguitar/ruby_apis_and_clients) - by Shai Rosenfeld 
   - [BDD and Acceptance Testing with RSpec & Capybara - Slides](https://dl.dropboxusercontent.com/u/2968596/rspec_and_capybara.pdf) - by Brian Sam-Bodden
   - [Maintainable Templates - Slides](https://github.com/bloudermilk/maintainable_templates) - By Brendan Loudermilk
@@ -28,14 +76,9 @@ Presentation Slides
   - [No traffic, no users, no problem!](https://speakerdeck.com/aantix/no-traffic-no-users-no-problem) - by Jim Jones
   - [Dissecting Ruby with Ruby](https://speakerdeck.com/schneems/dissecting-ruby-with-ruby) - by Richard Schneeman
   - [Zero-Downtime Payment Platforms](https://speakerdeck.com/rtwomey/railsconf-2013-zero-downtime-payment-platforms) - by Ryan Twomey
-
-Workshop Links
-====================
-
   - Acceptance Testing with Capybara & RSpec [Slides](https://speakerdeck.com/jcasimir/rspec-and-capybara-by-brian-sam-bodden) - [Repo](https://github.com/integrallis/learn-rspec-capybara) - [Jumpstart Tutorial](Open Jumpstart Lab’s tutorial and get started!)
 
-
-Video Links
+Other Links
 ====================
-
   - [Railsconf at Confreaks](http://www.confreaks.com/events/railsconf2013)
+  - Full Schedule: http://www.railsconf.com/2013/talks
